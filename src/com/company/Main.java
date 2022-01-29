@@ -12,6 +12,10 @@ public class Main {
         Solana.Heat="6776767367kj";
         Solana.radius="6473647634km";
         Solana.temp="122131243c";
-
+        
+//        planet 2 features
+        Planet2 p2 = new Planet2();
+        p2.color="pink";
+        p2.size="456686563km";
     }
 }

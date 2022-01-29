@@ -13,5 +13,9 @@ public class Main {
         Solana.radius="6473647634km";
         Solana.temp="122131243c";
 
+//        adding planet 1 features
+        PLANET1 p1 = new PLANET1();
+        p1.color="green";
+        p1.size="65465465489638km";
     }
 }

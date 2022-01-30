@@ -23,5 +23,11 @@ public class Main {
         PLANET1 p1 = new PLANET1();
         p1.color="green";
         p1.size="65465465489638km";
+
+//        adding moon 1 features
+        moon1 montero =new moon1();
+        montero.color="blue";
+        montero.radius="2443343";
+        montero.lightintensity="87478374lumouns";
     }
 }

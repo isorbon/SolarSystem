@@ -13,6 +13,12 @@ public class Main {
         Solana.radius="6473647634km";
         Solana.temp="122131243c";
 
+        
+//        planet 2 features
+        Planet2 p2 = new Planet2();
+        p2.color="pink";
+        p2.size="456686563km";
+
 //        adding planet 1 features
         PLANET1 p1 = new PLANET1();
         p1.color="green";

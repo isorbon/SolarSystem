@@ -24,10 +24,18 @@ public class Main {
         p1.color="green";
         p1.size="65465465489638km";
 
+
+//        adding moon 2 features
+       moon2 montero=new moon2();
+        montero.color="red";
+        montero.radius="4324234234";
+        montero.lightintensity="9348lunouns";
+
 //        adding moon 1 features
-        moon1 montero =new moon1();
-        montero.color="blue";
-        montero.radius="2443343";
-        montero.lightintensity="87478374lumouns";
+        moon1 montero1 =new moon1();
+        montero1.color="blue";
+        montero1.radius="2443343";
+        montero1.lightintensity="87478374lumouns";
+
     }
 }
